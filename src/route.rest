@@ -1,3 +1,12 @@
 GET http://localhost:8080/pokemon
 
 ###
+
+GET http://localhost:8080/pokemon?page=1&limit=6
+
+###
+GET http://localhost:8080/pokemon?page=2limit&limit=6
+
+
+
+
