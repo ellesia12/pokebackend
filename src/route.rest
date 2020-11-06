@@ -5,7 +5,20 @@ GET http://localhost:8080/pokemon
 GET http://localhost:8080/pokemon?page=1&limit=6
 
 ###
-GET http://localhost:8080/pokemon?page=2limit&limit=6
+GET http://localhost:8080/pokemon?page=2&limit=6
+
+###
+GET http://localhost:8080/pokemon/3
+
+###
+GET http://localhost:8080/pokemon/1/type
+
+###
+GET http://localhost:8080/pokemon/1/name
+
+###
+GET http://localhost:8080/pokemon/1/base
+
 
 
 
