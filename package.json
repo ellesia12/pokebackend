@@ -8,8 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node main.js",
-    "build": "webpack"
+    "start": "node main.js"
+  
   },
   "keywords": [],
   "author": "",
